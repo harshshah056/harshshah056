@@ -16,8 +16,8 @@
 ### 💻:keyboard: Languages and Tools 
 
 ### Languages<sup>*</sup>
-    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
   **Python**:
@@ -91,7 +91,7 @@
 
 ---
 ### 👀 Active Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Quananhle&repo=Data-Structure-and-Algorithms&theme=radical "Ed-Tech Platform using MERN")](https://github.com/harshshah056/skillspire)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harshshah056&repo=Skillspire&theme=radical "Ed-Tech Platform using MERN")](https://github.com/harshshah056/skillspire)
 
 <!-- ### 🏆 Github Status
 ![Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=quananhle&show_icons=true&theme=tokyonight&hide_border=true)
@@ -106,4 +106,3 @@
 &nbsp; &nbsp;
  
 ⭐️ From [Harsh](https://github.com/harshshah056) with :sparkling_heart: 
-<img align="right" width="70" height="25" src="https://visitor-badge.glitch.me/badge?page_id=quananhle.quananhle0">
