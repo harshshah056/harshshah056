@@ -88,7 +88,7 @@
 
 ---
 ### 👀 Active Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harshshah056&repo=Skillspire&theme=radical "Ed-Tech Platform using MERN")](https://github.com/harshshah056/SkillspireProject)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harshshah056&repo=SkillspireProject&theme=radical"Ed-Tech Platform using MERN")](https://github.com/harshshah056/SkillspireProject)
 
 <!-- ### 🏆 Github Status
 ![Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=quananhle&show_icons=true&theme=tokyonight&hide_border=true)
